@@ -27,5 +27,5 @@ This project focuses on financial analysis using Excel to evaluate key metrics s
 Include screenshots of the key visualizations to enhance the description. You can upload the images to your GitHub repository and link them here.
 
 ```markdown
-![Net Sales, COGS, and Gross Margin Overview](link_to_pic1)
-![Quarterly Gross Margin Trends](link_to_pic2)
+![Net Sales, COGS, and Gross Margin Overview]https://github.com/Vidhath5/Financial_Analysis/blob/ebdb5811c0ba8fb90ab5589dbe3bd0ef8ae8dabd/Screenshot%202024-06-02%20123154.jpeg
+![Quarterly Gross Margin Trends]https://github.com/Vidhath5/Financial_Analysis/blob/ebdb5811c0ba8fb90ab5589dbe3bd0ef8ae8dabd/Screenshot%202024-06-02%20123232.jpeg
